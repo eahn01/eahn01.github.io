@@ -31,7 +31,7 @@ enableRobotsTXT = true
   author = ""
   favicon = ""
   site_logo = ""
-  body_classes = "Bask  ervvile"
+  body_classes = "Baskervvile"
   description = "Mathemtics and Data Science student"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-washed-red"
