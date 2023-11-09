@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "My name is Emily Ahn
+description: "My name is Emily Ahn"
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
